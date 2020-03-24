@@ -1,0 +1,6 @@
+# Exclude unnecesary files and folders from Git
+pyvenv.cfg
+bin/
+lib/
+include/
+**/DS_Store

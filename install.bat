@@ -1,0 +1,3 @@
+ECHO ON
+ECHO Installing my_scaffold...
+cmd /k "python -m venv . & cd /d Scripts & activate & cd /d .. & pip install . & deactivate"
