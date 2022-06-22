@@ -4,7 +4,7 @@ setup(name='my_scaffold',
       version='0.1.0',
       install_requires=[
         "Flask==1.1.1",
-        "numpy==1.18.1",
+        "numpy==1.22.0",
         "pandas==0.25.3"
       ],
       packages=['src', 'src.utils'],
