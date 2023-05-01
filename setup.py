@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='my_scaffold',
       version='0.1.0',
       install_requires=[
-        "Flask==1.1.1",
+        "Flask==2.3.2",
         "numpy==1.18.1",
         "pandas==0.25.3"
       ],
